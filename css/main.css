@@ -8,7 +8,7 @@ nav ul, footer ul {
     padding: 5px;
     list-style: none;
     font-weight: bold;
-    background-color: #800000
+    background-color: DarkGrey
 }
 nav ul li, footer ul li {
     display: inline;
@@ -24,7 +24,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #FFD700;
+    color: #800000;
 }
 p {
     font-size: 1.5em;
